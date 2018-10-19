@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Citizen 0x3054 presentation pages.
+
+As you can see I have just set this up, so there is little content. More to come.
 
 You can use the [editor on GitHub](https://github.com/Citizen3054/Presentations/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
