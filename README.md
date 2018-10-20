@@ -1,6 +1,10 @@
 ## Welcome to Citizen 0x3054 presentation pages.
 
+Right now it is a collection of presentations, made at various times, to bbekeeping groups. Due to size restrictions (25M), I have saved these as PDFs. Not the best for re-use, but will do for now.
+
 As you can see I have just set this up, so there is little content. More to come.
+
+________________________________________________________
 
 You can use the [editor on GitHub](https://github.com/Citizen3054/Presentations/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
