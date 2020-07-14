@@ -1,6 +1,6 @@
 ## Welcome to Citizen 0x3054 presentation pages.
 
-Right now it is a collection of presentations, made at various times, to bbekeeping groups. Due to size restrictions (25M), I have saved these as PDFs. Not the best for re-use, but will do for now.
+Right now it is a collection of presentations, made at various times, to beekeeping groups. Due to size restrictions (25M), I have saved these as PDFs. Not the best for re-use, but will do for now.
 
 As you can see I have just set this up, so there is little content. More to come.
 
